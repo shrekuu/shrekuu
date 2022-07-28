@@ -1,4 +1,4 @@
-### Hi, 你好呀~ 我是 Bond, 专注于 Web 开发. 热爱
+### Hi, 你好呀~ 我是 Bond, 专注于 Web 开发. 热爱:
 
 - 使用 React/Vue/Angular/RxJS/PHP/Laravel 开发高性能, 高可维护的网站;
 - 使用 Taro 框架开发健壮的微信小程序;
