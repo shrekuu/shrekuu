@@ -1,4 +1,9 @@
-### Hi, 你好呀~ 我是 Bond, 专注于 Web 开发. 热爱:
+## Hi, 你好呀~ 我是 Bond <img src="https://user-images.githubusercontent.com/17363579/130145130-e5496302-0a6a-464f-ab10-cad7018b5791.gif" width="36">, 
+
+![Visitor Count](https://komarev.com/ghpvc/?username=shrekuu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-in-blue)](https://www.linkedin.com/in/shrekuu/)
+
+本 Bond 专注于 Web 开发. 热爱:
 
 - 使用 React/Vue/Angular/RxJS/PHP/Laravel 开发高性能, 高可维护的网站;
 - 使用 Taro 框架开发健壮的微信小程序;
