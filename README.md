@@ -6,7 +6,7 @@
 本 Bond 专注于 Web 开发. 热爱:
 
 - 使用 React/Vue/Angular/RxJS/PHP/Laravel 开发高性能, 高可维护的网站;
-- - 使用 React Native 开发高性能的 iOS 和 Android 应用;
+- 使用 React Native 开发高性能的 iOS 和 Android 应用;
 - 使用 Taro 框架开发健壮的微信小程序;
 
 
