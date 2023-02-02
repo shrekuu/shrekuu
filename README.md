@@ -12,7 +12,7 @@
 
 [![Bond's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrekuu&show_icons=true)](https://github.com/shrekuu/resume)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrekuu)](https://github.com/shrekuu/resume)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrekuu&hide=html)](https://github.com/shrekuu/resume)
 
 
 看, 这是我养的小鱼, 可爱吧~ 水底还有水草~
