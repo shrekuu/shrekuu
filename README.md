@@ -1,4 +1,4 @@
-## Hi, this is Bond <img src="https://user-images.githubusercontent.com/17363579/130145130-e5496302-0a6a-464f-ab10-cad7018b5791.gif" width="36">, a web developer based in China.
+## Hi, this is Bond <img src="https://user-images.githubusercontent.com/17363579/130145130-e5496302-0a6a-464f-ab10-cad7018b5791.gif" width="36">, a web developer based in Baoji, China.
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=shrekuu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in-blue)](https://www.linkedin.com/in/shrekuu/)
