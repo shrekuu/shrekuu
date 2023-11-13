@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in-blue)](https://www.linkedin.com/in/shrekuu/)
 
 I build
-- web apps with React and Laravel,
+- web apps with [React](https://react.dev/) and [Laravel](https://laravel.com/),
 - mobile apps with [React Native](https://reactnative.dev/) and [Expo](https://expo.dev/),
 - WeChat mini programs with [Taro](https://taro.zone/).
 
