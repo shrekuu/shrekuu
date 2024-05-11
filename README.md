@@ -8,6 +8,8 @@ I build
 - mobile apps with [React Native](https://reactnative.dev/) and [Expo](https://expo.dev/),
 - WeChat mini programs with [Taro](https://taro.zone/).
 
+I am currently playing at [Aspecta](https://aspecta.id).
+
 [![Bond's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrekuu&show_icons=true)](https://github.com/shrekuu/resume)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrekuu&hide=html)](https://github.com/shrekuu/resume)
