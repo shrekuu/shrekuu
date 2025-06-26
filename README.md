@@ -5,10 +5,10 @@
 
 I build
 - web apps with [React](https://react.dev/) and [Laravel](https://laravel.com/),
-- mobile apps with [React Native](https://reactnative.dev/) and [Expo](https://expo.dev/),
+- mobile apps with [React Native](https://reactnative.dev/) and [Expo](https://expo.dev/);
 - WeChat mini programs with [Taro](https://taro.zone/).
 
-I am currently playing at [Aspecta](https://aspecta.id).
+I am currently available for hire. 🫡
 
 [![Bond's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrekuu&show_icons=true)](https://github.com/shrekuu/resume)
 
