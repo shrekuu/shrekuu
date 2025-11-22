@@ -15,6 +15,9 @@ I am currently available for hire. 🫡
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrekuu&hide=html)](https://github.com/shrekuu/resume)
 
 
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="dev quote" />
+
+
 This is my fish tank. Can you find the mermaid?
 
 ```
